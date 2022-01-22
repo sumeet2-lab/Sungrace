@@ -1,3 +1,6 @@
+This repo is made for hosting the web app which i had made while doing virtual internship with microsoft name - Future ready talent
+
+
 I made a basic html website with help of Azure Webapps.
 Steps I follow:-
 
@@ -19,43 +22,3 @@ Steps I follow:-
 
 
 My website URL- https://sungrace.azurewebsites.net/
-
-
-
-this code I deployed on Azure Web Apps
-
-
-<!DOCTYPE html>
-<html>
-  
-  <head>
-    <meta charset="UTF-8">
-    <title>MoL Pizza Store</title>
-  </head>
-
-  <body>
-    <h1>Month of Pizza Lunches</h1>
-    <p>Welcome to a basic static HTML page powered by Azure Web Apps! Here are some of the yummy pizzas you can soon order online!</p>
-    
-    <table>
-      <tr>
-        <th>Name</th><th>Cost</th>
-      </tr>
-      <tr>
-        <td>Pepperoni</td><td>$18</td>
-      </tr>
-      <tr>
-        <td>Veggie</td><td>$15</td>
-      </tr>
-      <tr>
-        <td>Hawaiian</td><td>$12</td>
-      </tr>
-    </table>
-
-  </body>
-
-</html>
-
-
-
-
